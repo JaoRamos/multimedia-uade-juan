@@ -1,6 +1,6 @@
 // La función setup se ejecuta una sola vez cuando presionas reset o encendes la placa
 void setup() {
-  // Inicializa el pin digital LED_BUILTIN como salida
+  // Inicializa el pin digital 13 como salida
   pinMode(13, OUTPUT);
 }
 
