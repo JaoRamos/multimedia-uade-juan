@@ -15,7 +15,8 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 
 | <img src="imgs/olas.png" width="200" height="140"> | <img src="imgs/banana.png" width="200" height="140"> | <img src="imgs/toroide.png" width="200" height="140"> | <img src="imgs/panda.png" width="200" height="140"> |
 | :---: | :---: | :---: | :---: |
-| *“Olas”* | *“Banana”* | *“Toroide”* | *“Panda y Cambá”* |
+| [Olas](https://drive.google.com/file/d/1fKLqXHfQObpAkmkO7-EbD4VoOSMhJXbK/view?usp=drive_link) | [Banana](https://drive.google.com/file/d/1nXU8jbiJd1chZcsenVydCHFpriCpUhZn/view?usp=drive_link) | [Toroide](https://drive.google.com/file/d/1bdhSdPAwgyOTTYt2WokTFf5h1xBq5Cz4/view?usp=drive_link) | [Panda y Cambá](https://drive.google.com/file/d/197lCHBGCZXNnxvgSzI3k-M-JKEYyd0iM/view?usp=drive_link) |
+
 
 1. Para cada opción elegida, implementar una interacción que controle el patch de Touchdesigner mediante un sensor (cualquiera de los vistos en clase, también puede ser un botón) conectado al Arduino, y que éste envíe un dato (número) mediante Serial a Touchdesigner. Todos los patches “esperan” un valor con decimales entre 0.0 y 1.0, siendo 0.0 el mínimo y 1.0 el máximo. Cada patch ya contiene programada una interacción distinta y particular, y todos tienen sonido (se puede escuchar con auriculares, parlantes o lo que haya a mano… aunque no es fundamental). **1 punto por pieza.**  
    *Seguramente convenga utilizar un protoboard para garantizar la estabilidad de la conexión.*
@@ -47,14 +48,3 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 Los patches de Touchdesigner se descargan de funcionarán una vez que se les indique el puerto Serie donde está conectado el Arduino (COM1, COM2, etc…), eso se hace en las opciones del operador llamado “serial1” (Control / Command \+ F abre un buscador):
 
 <img src="imgs/serial-td.png" width="600" height="300">
-
-
-# Demos video de los patches
-
-- [Banana](https://drive.google.com/file/d/1nXU8jbiJd1chZcsenVydCHFpriCpUhZn/view?usp=drive_link)
-
-- [Olas](https://drive.google.com/file/d/1fKLqXHfQObpAkmkO7-EbD4VoOSMhJXbK/view?usp=drive_link)
-
-- [Panda](https://drive.google.com/file/d/197lCHBGCZXNnxvgSzI3k-M-JKEYyd0iM/view?usp=drive_link)
-
-- [Toroide](https://drive.google.com/file/d/1bdhSdPAwgyOTTYt2WokTFf5h1xBq5Cz4/view?usp=drive_link)
