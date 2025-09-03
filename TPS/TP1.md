@@ -2,16 +2,20 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 
 **Trabajo práctico 1**
 
-# 2 Piezas interactivas con ARDUINO y TOUCHDESIGNER
+---
+
+# *2 Piezas interactivas con ARDUINO y TOUCHDESIGNER*
 **Trabajo grupal (2 a 3 personas máximo, sin excepción)**
 
-*Los patches (proyectos) de Touchdesigner ya se proveen diseñados y funcionando, no es necesario intervenir en ellos excepto para indicar el puerto Serie donde está conectado Arduino (se explica luego). Solo nos enfocaremos en la parte de diseño conceptual y de implementación en Arduino.*
+Los patches (proyectos) de Touchdesigner ya se proveen diseñados y funcionando, no es necesario intervenir en ellos excepto para indicar el puerto Serie donde está conectado Arduino (se explica luego). Solo nos enfocaremos en la parte de diseño conceptual y de implementación en Arduino.
 
-*Se aclara la **rúbrica** de puntajes para cada elemento del trabajo.*
+Se aclara la **rúbrica** de puntajes para cada elemento del trabajo.
+
+---
 
 **Consigna** 
 
-1. Se proveen 4 opciones de patches en Touchdesigner, de las cuales **deberán elegirse solo 2** (a gusto de cada grupo\!) y realizar los pasos siguientes.
+1. Se proveen 4 opciones de patches en Touchdesigner, de los cuales **deberán elegirse solo 2** (a gusto de cada grupo\!) y realizar los pasos siguientes.
 
 | <img src="imgs/olas.png" width="200" height="140"> | <img src="imgs/banana.png" width="200" height="140"> | <img src="imgs/toroide.png" width="200" height="140"> | <img src="imgs/panda.png" width="200" height="140"> |
 | :---: | :---: | :---: | :---: |
@@ -29,7 +33,7 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 
 5. Se debe realizar un pequeño escrito, en cualquier software que permita exportar a PDF o Docx, que sea una **memoria descriptiva del trabajo** realizado para cada patch en particular. Esto debe incluir:
 
-   1. Una página/carátula inicial donde consten los nombres de cada integrante del grupo, y se aclare el aporte de cada uno (puede ser el tipo de rol asumido, siendo opcional dividir roles; no se puntuará más ni menos por el rol elegido).  **1 punto total.**
+   1. Una página/carátula inicial donde consten los nombres de cada integrante del grupo, y se aclare el aporte de cada uno (puede ser el tipo de rol asumido, siendo opcional dividir roles; no se puntuará más ni menos por el rol elegido).  **0.5 puntos total.**
 
    2. Un título ficticio para cada pieza. **0.25 puntos por pieza.**
 
@@ -38,6 +42,8 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
    4. El listado de materiales necesarios para implementar la pieza (solamente lo relacionado a Arduino, sus sensores y conexiones \- *no hace falta contemplar PC, proyectores, pantallas*…). Esto es a modo de simulacro, como si fuese un encargo por parte de un cliente y necesitan armar el listado de materiales. **0.5 puntos por pieza.**
 
    5. Un dibujo pequeño (puede ser una foto de un papel dibujado, o hecho en cualquier software) que muestre el esquema de conexión que utilizaron para implementar el sensor con Arduino y cualquier componente accesorio necesario (cables, resistores etc…). No olvidar indicar los nombres de los pines utilizados tanto del sensor como del Arduino (solo los utilizados, no hace falta el resto\!). No se permite entregar un esquema descargado de internet, por lo que deberán cuidar que cada pin mostrado sea el correcto. **0.5 puntos por pieza.**
+
+---
 
 **Elementos a entregar**
 
@@ -48,3 +54,9 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 Los patches de Touchdesigner se descargan de funcionarán una vez que se les indique el puerto Serie donde está conectado el Arduino (COM1, COM2, etc…), eso se hace en las opciones del operador llamado “serial1” (Control / Command \+ F abre un buscador):
 
 <img src="imgs/serial-td.png" width="600" height="300">
+
+---
+
+**Calificación**
+
+Notar que toda la rúbrica suma 10, pero con 1 sola pieza correctamente realizada alcanza para "aprobar" el TP1.
