@@ -51,10 +51,10 @@ Los patches de Touchdesigner se descargan de funcionarán una vez que se les ind
 
 # Demos video de los patches
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y6wEPaHaTio?si=polU-lYA7cl_fakX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Banana](https://drive.google.com/file/d/1nXU8jbiJd1chZcsenVydCHFpriCpUhZn/view?usp=drive_link)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FYjiVRFY_X4?si=zNiwpSwpHpq-Rf49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Olas](https://drive.google.com/file/d/1fKLqXHfQObpAkmkO7-EbD4VoOSMhJXbK/view?usp=drive_link)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AE75TbHW__I?si=vnM8R3sAtkAAXY6l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Panda](https://drive.google.com/file/d/197lCHBGCZXNnxvgSzI3k-M-JKEYyd0iM/view?usp=drive_link)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD3q_tzNWeg?si=Bcx_WFvXU36P1kvv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Toroide](https://drive.google.com/file/d/1bdhSdPAwgyOTTYt2WokTFf5h1xBq5Cz4/view?usp=drive_link)
