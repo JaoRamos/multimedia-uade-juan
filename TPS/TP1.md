@@ -46,7 +46,7 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 
 Los patches de Touchdesigner se descargan de funcionarán una vez que se les indique el puerto Serie donde está conectado el Arduino (COM1, COM2, etc…), eso se hace en las opciones del operador llamado “serial1” (Control / Command \+ F abre un buscador):
 
-![Serial](imgs/serial-td.png "Puerto serie en TD")
+<img src="imgs/serial-td.png" width="600" height="300">
 
 
 # Demos video de los patches
