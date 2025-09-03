@@ -13,20 +13,24 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 
 1. Se proveen 4 opciones de patches en Touchdesigner, de las cuales **deberán elegirse solo 2** (a gusto de cada grupo\!) y realizar los pasos siguientes.
 
+| ![olas](imgs/olas.png "Olas") | ![banana][imgs/banana.png "Banana"] ![banana][imgs/banana.png "Banana"] | ![][imgs/toroide.png] | ![][imgs/panda.png] |
+
+
+
 | ![][imgs/olas.png] | ![][imgs/banana.png] | ![][imgs/toroide.png] | ![][imgs/panda.png] |
 | :---: | :---: | :---: | :---: |
 | *“Olas”* | *“Banana”* | *“Toroide”* | *“Panda y Cambá”* |
 
-2. Para cada opción elegida, implementar una interacción que controle el patch de Touchdesigner mediante un sensor (cualquiera de los vistos en clase, también puede ser un botón) conectado al Arduino, y que éste envíe un dato (número) mediante Serial a Touchdesigner. Todos los patches “esperan” un valor con decimales entre 0.0 y 1.0, siendo 0.0 el mínimo y 1.0 el máximo. Cada patch ya contiene programada una interacción distinta y particular, y todos tienen sonido (se puede escuchar con auriculares, parlantes o lo que haya a mano… aunque no es fundamental). **1 punto por pieza.**  
+1. Para cada opción elegida, implementar una interacción que controle el patch de Touchdesigner mediante un sensor (cualquiera de los vistos en clase, también puede ser un botón) conectado al Arduino, y que éste envíe un dato (número) mediante Serial a Touchdesigner. Todos los patches “esperan” un valor con decimales entre 0.0 y 1.0, siendo 0.0 el mínimo y 1.0 el máximo. Cada patch ya contiene programada una interacción distinta y particular, y todos tienen sonido (se puede escuchar con auriculares, parlantes o lo que haya a mano… aunque no es fundamental). **1 punto por pieza.**  
    *Seguramente convenga utilizar un protoboard para garantizar la estabilidad de la conexión.*
 
-3. Para cada sensor elegido, será necesario solucionar en el código una manera de adaptar sus valores producidos al rango que “espera” Touchdesigner en la PC, que siempre es un número entre 0.0 y 1.0. Se puede googlear, mirar los ejemplos de las clases, y consultas a la IA para resolver estos problemas. **0.5 puntos por pieza.**
+2. Para cada sensor elegido, será necesario solucionar en el código una manera de adaptar sus valores producidos al rango que “espera” Touchdesigner en la PC, que siempre es un número entre 0.0 y 1.0. Se puede googlear, mirar los ejemplos de las clases, y consultas a la IA para resolver estos problemas. **0.5 puntos por pieza.**
 
-4. Importante: **no se pueden repetir sensores**, por lo que se deberán escoger 2 sensores distintos para los 2 patches seleccionados. **\-2 puntos si se usa el mismo sensor :(**
+3. Importante: **no se pueden repetir sensores**, por lo que se deberán escoger 2 sensores distintos para los 2 patches seleccionados. **\-2 puntos si se usa el mismo sensor :(**
 
-5. Realizar un pequeño video (con un celular cualquiera…) donde se vea la pieza funcionando y el sensor con Arduino controlando el patch de Touchdesigner mediante interacción humana. No más de 20 segundos por pieza. No se pide edición ni nada especial, tan solo demostrar que “funciona”. **1 punto por pieza.**
+4. Realizar un pequeño video (con un celular cualquiera…) donde se vea la pieza funcionando y el sensor con Arduino controlando el patch de Touchdesigner mediante interacción humana. No más de 20 segundos por pieza. No se pide edición ni nada especial, tan solo demostrar que “funciona”. **1 punto por pieza.**
 
-6. Se debe realizar un pequeño escrito, en cualquier software que permita exportar a PDF o Docx, que sea una **memoria descriptiva del trabajo** realizado para cada patch en particular. Esto debe incluir:
+5. Se debe realizar un pequeño escrito, en cualquier software que permita exportar a PDF o Docx, que sea una **memoria descriptiva del trabajo** realizado para cada patch en particular. Esto debe incluir:
 
    1. Una página/carátula inicial donde consten los nombres de cada integrante del grupo, y se aclare el aporte de cada uno (puede ser el tipo de rol asumido, siendo opcional dividir roles; no se puntuará más ni menos por el rol elegido).  **1 punto total.**
 
