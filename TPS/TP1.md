@@ -13,11 +13,7 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 
 1. Se proveen 4 opciones de patches en Touchdesigner, de las cuales **deberán elegirse solo 2** (a gusto de cada grupo\!) y realizar los pasos siguientes.
 
-| ![olas](imgs/olas.png "Olas") | ![banana][imgs/banana.png "Banana"] ![banana][imgs/banana.png "Banana"] | ![][imgs/toroide.png] | ![][imgs/panda.png] |
-
-
-
-| ![][imgs/olas.png] | ![][imgs/banana.png] | ![][imgs/toroide.png] | ![][imgs/panda.png] |
+| <img src="imgs/olas.png" width="200" height="140"> | <img src="imgs/banana.png" width="200" height="140"> | <img src="imgs/toroide.png" width="200" height="140"> | <img src="imgs/panda.png" width="200" height="140"> |
 | :---: | :---: | :---: | :---: |
 | *“Olas”* | *“Banana”* | *“Toroide”* | *“Panda y Cambá”* |
 
