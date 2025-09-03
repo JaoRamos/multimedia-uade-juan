@@ -9,6 +9,8 @@ Multimedia II/III - UADE - Ramos/Nievas/Espósito
 
 Los patches (proyectos) de Touchdesigner ya se proveen diseñados y funcionando, no es necesario intervenir en ellos excepto para indicar el puerto Serie donde está conectado Arduino (se explica luego). Solo nos enfocaremos en la parte de diseño conceptual y de implementación en Arduino.
 
+Pueden descargarse los archivos para realizar el TP1 acá: [descargar](https://github.com/JaoRamos/multimedia-uade-juan/raw/refs/heads/main/TPS/Archivos-TP1.zip).
+
 Se aclara la **rúbrica** de puntajes para cada elemento del trabajo.
 
 ---
