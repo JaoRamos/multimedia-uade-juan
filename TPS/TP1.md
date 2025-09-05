@@ -19,6 +19,8 @@ Se aclara la **rúbrica** de puntajes para cada elemento del trabajo.
 
 1. Se proveen 4 opciones de patches en Touchdesigner, de los cuales **deberán elegirse solo 2** (a gusto de cada grupo\!) y realizar los pasos siguientes.
 
+(capturas de los patches en imágenes y videos breves, el video NO es el patch, es solo un demo breve)
+
 | <img src="imgs/olas.png" width="200" height="140"> | <img src="imgs/banana.png" width="200" height="140"> | <img src="imgs/toroide.png" width="200" height="140"> | <img src="imgs/panda.png" width="200" height="140"> |
 | :---: | :---: | :---: | :---: |
 | [Olas](https://youtu.be/AE75TbHW__I?si=DVa87qp0Tsx6OVu_) | [Banana](https://youtu.be/PD3q_tzNWeg?si=kjKSQKVahAF-d2Ha) | [Toroide](https://youtu.be/y6wEPaHaTio?si=lMxSjsdc5j-rC5rZ) | [Panda y Cambá](https://youtu.be/FYjiVRFY_X4?si=29aptJWjF06tOr6O) |
