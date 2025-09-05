@@ -21,7 +21,7 @@ Se aclara la **rúbrica** de puntajes para cada elemento del trabajo.
 
 | <img src="imgs/olas.png" width="200" height="140"> | <img src="imgs/banana.png" width="200" height="140"> | <img src="imgs/toroide.png" width="200" height="140"> | <img src="imgs/panda.png" width="200" height="140"> |
 | :---: | :---: | :---: | :---: |
-| [Olas](https://drive.google.com/file/d/1fKLqXHfQObpAkmkO7-EbD4VoOSMhJXbK/view?usp=drive_link) | [Banana](https://drive.google.com/file/d/1nXU8jbiJd1chZcsenVydCHFpriCpUhZn/view?usp=drive_link) | [Toroide](https://drive.google.com/file/d/1bdhSdPAwgyOTTYt2WokTFf5h1xBq5Cz4/view?usp=drive_link) | [Panda y Cambá](https://drive.google.com/file/d/197lCHBGCZXNnxvgSzI3k-M-JKEYyd0iM/view?usp=drive_link) |
+| [Olas](https://youtu.be/AE75TbHW__I?si=DVa87qp0Tsx6OVu_) | [Banana](https://youtu.be/PD3q_tzNWeg?si=kjKSQKVahAF-d2Ha) | [Toroide](https://youtu.be/y6wEPaHaTio?si=lMxSjsdc5j-rC5rZ) | [Panda y Cambá](https://youtu.be/FYjiVRFY_X4?si=29aptJWjF06tOr6O) |
 
 
 1. Para cada opción elegida, implementar una interacción que controle el patch de Touchdesigner mediante un sensor (cualquiera de los vistos en clase, también puede ser un botón) conectado al Arduino, y que éste envíe un dato (número) mediante Serial a Touchdesigner. Todos los patches “esperan” un valor con decimales entre 0.0 y 1.0, siendo 0.0 el mínimo y 1.0 el máximo. Cada patch ya contiene programada una interacción distinta y particular, y todos tienen sonido (se puede escuchar con auriculares, parlantes o lo que haya a mano… aunque no es fundamental). **1 punto por pieza.**  
@@ -41,9 +41,9 @@ Se aclara la **rúbrica** de puntajes para cada elemento del trabajo.
 
    3. Una breve descripción conceptual ficticia para cada pieza, que incluya una justificación (también ficticia) de por qué se eligió ese sensor para esa pieza y estética particular, y una sugerencia de dónde podría instalarse (un espacio a elección, debe existir pero puede ser cualquiera). **1 punto por pieza.**
 
-   4. El listado de materiales necesarios para implementar la pieza (solamente lo relacionado a Arduino, sus sensores y conexiones \- *no hace falta contemplar PC, proyectores, pantallas*…). Esto es a modo de simulacro, como si fuese un encargo por parte de un cliente y necesitan armar el listado de materiales. **0.5 puntos por pieza.**
+   4. El listado de materiales necesarios para implementar la pieza (solamente lo relacionado a Arduino, sus sensores y conexiones \- *no hace falta contemplar PC, proyectores, pantallas*…). *Esto es a modo de simulacro, como si fuese un encargo por parte de un cliente y necesitan armar el listado de materiales.* **0.5 puntos por pieza.**
 
-   5. Un dibujo pequeño (puede ser una foto de un papel dibujado, o hecho en cualquier software) que muestre el esquema de conexión que utilizaron para implementar el sensor con Arduino y cualquier componente accesorio necesario (cables, resistores etc…). No olvidar indicar los nombres de los pines utilizados tanto del sensor como del Arduino (solo los utilizados, no hace falta el resto\!). No se permite entregar un esquema descargado de internet, por lo que deberán cuidar que cada pin mostrado sea el correcto. **0.5 puntos por pieza.**
+   5. Un dibujo pequeño (puede ser una foto de un papel dibujado, o hecho en cualquier software) que muestre el esquema de conexión que utilizaron para implementar el sensor con Arduino y cualquier componente accesorio necesario (cables, resistores etc…). No olvidar indicar los nombres de los pines utilizados tanto del sensor como del Arduino (solo los utilizados, no hace falta el resto\!). No se permite entregar un esquema descargado de internet, por lo que deberán cuidar que cada pin mostrado sea el correcto. *La idea es aprender a hacer las indicaciones específicas para que otros sigan nuestro diseño.* **0.5 puntos por pieza.**
 
 ---
 
@@ -53,12 +53,24 @@ Se aclara la **rúbrica** de puntajes para cada elemento del trabajo.
 2. Códigos de Arduino de cada pieza (recordar que son archivos **.ino**, 2 en total).  
 3. Videos con la interacción Arduino-Touchdesigner (máximo 20 segundos por pieza, 2 en total).
 
-Los patches de Touchdesigner se descargan de funcionarán una vez que se les indique el puerto Serie donde está conectado el Arduino (COM1, COM2, etc…), eso se hace en las opciones del operador llamado “serial1” (Control / Command \+ F abre un buscador):
-
-<img src="imgs/serial-td.png" width="600" height="300">
+Crearemos un Canal de Teams específico para cada grupo, donde podrán subir los archivos.
 
 ---
 
-**Calificación**
+## Calificación
 
-Notar que toda la rúbrica suma 10, pero con 1 sola pieza correctamente realizada alcanza para "aprobar" el TP1.
+Notar que toda la rúbrica suma 10, pero con 1 sola pieza *correctamente realizada* alcanza para aprobar el TP1.
+
+---
+
+## Notas sobre Touchdesigner
+
+Los patches de Touchdesigner descargados funcionarán automáticamente una vez que se les indique el puerto Serie donde está conectado el Arduino (COM1, COM2, etc…), eso se hace en las opciones del operador llamado “serial1” (**Control / Command \+ F abre un buscador**). Podemos tipearlo a mano, o abrir la lista en el botoncito de la derecha (el triángulo).
+
+<img src="imgs/serial-td.png" width="600" height="300">
+
+A veces aparecen dos cosas con nombre similar a "serial1", apretar las flechitas del buscador "< >" hasta que aparezca el que se ve en la foto.
+
+Importante: los puertos Serial (COM1, COM2, etc...) que estamos usando, habitualmente no permiten compartirse entre aplicaciones... por lo que solo la app de Arduino, o Touchdesigner pueden accederlo por separado, pero no en simultaneo... tendremos que deshabilitar uno para que ande el otro (alcanza con cambiar de puerto a cualquier otro, momentaneamente... o bien cerrar directamente la app).
+
+Para ver en **pantalla completa** el patch podemos presionar F1, y ESC para regresar. En algunas notebooks para usar F1, hay que mantener presionada la tecla FN también, aunque depende de cada teclado.
