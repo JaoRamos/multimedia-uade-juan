@@ -55,7 +55,7 @@ Se aclara la **rúbrica** de puntajes para cada elemento del trabajo.
 2. Códigos de Arduino de cada pieza (recordar que son archivos **.ino**, 2 en total).  
 3. Videos con la interacción Arduino-Touchdesigner (máximo 20 segundos por pieza, 2 en total).
 
-Crearemos un Canal de Teams específico para cada grupo, donde podrán subir los archivos.
+En los archivos del canal de la Clase 5, podrán hacer una carpeta 📂 para cada grupo, cuyo nombre sean sus apellidos (nada mas), donde podrán subir los archivos del TP.
 
 ---
 
