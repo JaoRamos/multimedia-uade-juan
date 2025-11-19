@@ -78,6 +78,9 @@ Cada criterio vale entre **0 y 2 puntos**
 | **4. Mapping y ajuste espacial en Resolume**  | Incorrecciones o poca precisión. | Mapping correcto y funcional.               | Mapping expresivo, preciso y armoniosamente adaptado al objeto físico. Buena elección y disposición espacial de objetos.           |
 | **5. Búsqueda y uso de recursos adicionales** | No hay recursos extra.           | Uso parcial o experimentación básica.    | Integración creativa técnicas nuevas u optimizaciones propias, obtención de materiales de formas creativas o no convencionales. |
 
+
+**Importante:** esta será la nota Grupal del trabajo, la calificación individual final tendrá una ponderación considerando el recorrido en la cursada.
+
 ---
 
 ## **Notas finales**
